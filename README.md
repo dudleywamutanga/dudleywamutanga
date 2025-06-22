@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/wamutangadudley" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:patrickdudule.com">
+  <a href="mailto:patrickdudule@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
