@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Wamutanga Dudley</h1>
-<h3 align="center">A passionate software developer from Uganda</h3>
+<h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **Java-based GUI + Database Systems**
-- 🌱 I’m currently learning **Spring Boot, PHP & advanced SQL**
-- 👯 I’m looking to collaborate on **open source and academic-based projects**
-- 💬 Ask me about **Java, Web Dev, MS Access integration, and Swing/JavaFX**
-- 📫 How to reach me: **wamutangadudley@example.com**
-- ⚡ Fun fact: I love turning academic case studies into full working systems 😄
+- 🔭 I’m currently working on **Flutter mobile apps and web systems**
+- 🌱 I’m currently learning **advanced Dart and backend integration**
+- 👯 I’m looking to collaborate on **Flutter, Python, and web-based academic systems**
+- 💬 Ask me about **Flutter, PHP, Python, and full-stack web development**
+- 📫 Reach me at: **wamutangadudley@example.com**
+- ⚡ Fun fact: I enjoy transforming real-world needs into beautiful mobile & web apps 😄
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Access-BA141A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
